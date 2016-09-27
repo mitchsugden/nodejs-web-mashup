@@ -1,0 +1,17 @@
+{
+  "name": "SURFR",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "First Last <first.last@example.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "async": "^2.0.1",
+    "express": "^4.13.3",
+    "fahrenheit-to-celsius": "^1.0.0",
+    "nprogress": "^0.2.0",
+    "request": "^2.74.0"
+  }
+}
