@@ -4,7 +4,7 @@ var fahrenheitToCelsius = require('fahrenheit-to-celsius');
 var evaluateBeach = require("./evaluateBeach.js");
 
 var completedBeaches = [];
-var FORECASTIO_API_KEY = "7ff8dbcd83aed43898a7a32dc254b98e";
+var FORECASTIO_API_KEY = YOUR_API_KEY;
 
 module.exports = {
 	/**
