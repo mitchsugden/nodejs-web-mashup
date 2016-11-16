@@ -3,7 +3,7 @@ var request = require("request");
 var googleMaps = require("./google-maps.js");
 
 const NUM_LOCATIONS = 50;
-const SWELLCAST_API_KEY = "ziBc7iKQmp5Ry6KpC3sU";
+const SWELLCAST_API_KEY = YOUR_API_KEY;
 var swellcastData = [];
 var swellcastUrls = [];
 
