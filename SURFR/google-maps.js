@@ -2,7 +2,7 @@ var async = require("async");
 var request = require("request");
 var forecastio = require("./forecastio.js");
 
-const GOOGLE_API_KEY = "AIzaSyAJLEYkVz0pZZDFM47C3IVe02LM5RFXgd0";
+const GOOGLE_API_KEY = YOUR_API_KEY;
 var geocodedBeachs = [];
 
 /*-------------------------------------------------------------------------------------------|    
